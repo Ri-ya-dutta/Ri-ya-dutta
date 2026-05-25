@@ -18,11 +18,12 @@
 ---
 
  
-<!-- <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+### 🤝 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/riya-dutta-038924411" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p> -->
+</p>
 
 ---
 
